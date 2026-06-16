@@ -1,6 +1,6 @@
 # Sistem Pendukung Keputusan
 
-Website Sistem Pendukung Keputusan yang mengimplementasikan metode AHP dan SAW untuk membantu proses pengambilan keputusan dan menentukan alternatif terbaik berdasarkan kriteria yang telah ditetapkan.
+Website Sistem Pendukung Keputusan yang mengimplementasikan metode AHP (Analytical Hierarchy Process) dan SAW (Simple Additive Weighting) untuk membantu proses pengambilan keputusan dan menentukan alternatif terbaik berdasarkan kriteria yang telah ditetapkan.
 
 ## Installation
 
@@ -13,6 +13,12 @@ Website Sistem Pendukung Keputusan yang mengimplementasikan metode AHP dan SAW u
 ```
 http://localhost/Sistem-Pendukung-Keputusan
 ```
+
+## Login Credentials
+
+| Role | Username | Password |
+|--------|----------|----------|
+| Admin | admin | admin |
 
 ## Technologies Used
 
